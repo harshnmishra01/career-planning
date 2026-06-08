@@ -1,3 +1,3 @@
 ## Important MD link
 
-1. [JobPlan] : JobPlan.md
+1. [Job Hunt Plan](JobPlan.md)
